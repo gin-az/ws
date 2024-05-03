@@ -1,2 +1,2 @@
 # ws
-websocket
+websocket simple example
